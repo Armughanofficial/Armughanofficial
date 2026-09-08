@@ -1,5 +1,5 @@
 # 💫 About Me:
-Armughan Mehmood | Blockchain Developer & Fintech Student<br><br>Building: Rust, Solana, and Smart Contract Architecture.<br><br>Experience: 2.5+ years in Web3 Ecosystem & Community Management (Ezzstar, Flint).<br><br>Education: 4th Sem Fintech @ FAST NUCES Islamabad.<br><br>Goal: Contributing to high-impact decentralized products as a Rust/Blockchain Developer.
+Armughan Mehmood | Blockchain Developer & Fintech Student<br><br>Building: Rust, Solana, and Smart Contract Architecture.<br><br>Experience: 2.5+ years in Web3 Ecosystem & Community Management (Ezzstar, Flint).<br><br>Education: 5th Sem Fintech @ FAST NUCES Islamabad.<br><br>Goal: Contributing to high-impact decentralized products as a Rust/Blockchain Developer.
 
 
 ## 🌐 Socials:
